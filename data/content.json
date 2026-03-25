@@ -1,0 +1,6 @@
+{
+  "name": "Start Stremio",
+  "version": "1.0.0",
+  "parameter": "content:https://anna00199.github.io/msx-stremio/data/content.json",
+  "welcome": "none"
+}
